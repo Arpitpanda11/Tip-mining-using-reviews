@@ -1,0 +1,2 @@
+# Tip-mining-using-reviews
+This project is created to find 'tips' from customer reviews.Tips are basically short texts that gives insights into the reviews rather than having the whole review.To obtain these we extracted bigrams from the cleaned review text and compared it the with the hotels to find which hotel has more number of these bigrams.Based on that count we did normal distribution to find out which hotel is more important for us.
